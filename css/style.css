@@ -1,0 +1,13 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background: #e8edf1;
+}
+.card-img-size {
+  height: 200px;
+  width: 200px;
+}
+.border-right-orange {
+  border-right: 2px solid orange !important;
+  height:100px;
+  margin: 10px 0;
+}
